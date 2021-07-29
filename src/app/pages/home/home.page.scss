@@ -1,0 +1,21 @@
+ion-menu-button,
+ion-toolbar ion-button {
+    color: var(--ion-color-primary-contrast);
+}
+
+ion-toolbar ion-title {
+    display: inline-block;
+}
+
+#container {
+    text-align: center;
+    position: relative;
+    width: 100%;
+}
+
+.child-router {
+    text-align: center;
+    position: relative;
+    width: auto;
+    height: auto;
+}
